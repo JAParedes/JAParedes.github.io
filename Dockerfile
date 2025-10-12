@@ -1,35 +1,16 @@
-# Base image: Ruby with necessary dependencies for Jekyll
-FROM ruby:3.2
+FROM ruby:slim
 
-# Install dependencies
-RUN apt-get update && apt-get install -y \
-    build-essential \
-    nodejs \
-    && rm -rf /var/lib/apt/lists/*
+LABEL Name=japaredesgithub Version=0.0.1
 
+EXPOSE 4000
 
-# Create a non-root user with UID 1000
-RUN groupadd -g 1000 vscode && \
-    useradd -m -u 1000 -g vscode vscode
+# throw errors if Gemfile has been modified since Gemfile.lock
+RUN bundle config --global frozen 1
 
-# Set the working directory
-WORKDIR /usr/src/app
+WORKDIR /app
+COPY . /app
 
-# Set permissions for the working directory
-RUN chown -R vscode:vscode /usr/src/app
-
-# Switch to the non-root user
-USER vscode
-
-# Copy Gemfile into the container (necessary for `bundle install`)
-COPY Gemfile ./
-
-
-
-# Install bundler and dependencies
-RUN gem install connection_pool:2.5.0
-RUN gem install bundler:2.3.26
+COPY Gemfile Gemfile.lock ./
 RUN bundle install
 
-# Command to serve the Jekyll site
-CMD ["jekyll", "serve", "-H", "0.0.0.0", "-w", "--config", "_config.yml,_config_docker.yml"]
+CMD ["ruby", "japaredesgithub.rb"]
