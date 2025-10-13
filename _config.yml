@@ -28,7 +28,7 @@ author:
   pronouns         : "he/him" # example: "she/her"  
   bio              : "I'm a Research Fellow at UMBC with research interests in Guidance, Navigation and Control of UAVs and aerospace systems. Feel free to check my projects and their associated multimedia, as well as the provided code."
   location         : "Catonsville, MD"
-  employer         : "University of Maryland Baltimore County"
+  employer         : "UMBC"
   uri              : # URL
   email            : "japarede@umbc.edu" 
 
@@ -227,6 +227,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -283,6 +286,15 @@ defaults:
   - scope:
       path: ""
       type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _videos
+  - scope:
+      path: ""
+      type: videos
     values:
       layout: single
       author_profile: true

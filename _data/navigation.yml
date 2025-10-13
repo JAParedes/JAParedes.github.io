@@ -9,7 +9,7 @@
 
 main:
   - title: "CV"
-    url: /cv/
+    url: /files/Juan_Paredes_CV.pdf
   
   - title: "Publications"
     url: /publications/
@@ -17,8 +17,11 @@ main:
   - title: "Projects"
     url: /projects/ 
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Videos"
+    url: /videos/   
+
+  # - title: "Teaching"
+  #   url: /teaching/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
