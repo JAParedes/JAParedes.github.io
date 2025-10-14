@@ -12,6 +12,8 @@ redirect_from:
 
 
 
+<div data-include="/files/citation_map_authors_Juan_Augusto_Paredes_Salazar.html"></div>
+
 <div data-include="/files/citation_map_number_Juan_Augusto_Paredes_Salazar.html"></div>
 
 <!---
