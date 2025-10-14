@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "paredes.jpg"
   name             : "Juan Augusto Paredes Salazar"
-  pronouns         : "he/him" # example: "she/her"  
+  pronouns         : # "he/him" # example: "she/her"  
   bio              : "I'm a Research Fellow at UMBC with research interests in Guidance, Navigation and Control of UAVs and aerospace systems. Feel free to check my projects and their associated multimedia, as well as the provided code."
   location         : "Catonsville, MD"
   employer         : "UMBC"
@@ -76,7 +76,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : JuanAugustoParedesSalazar # Username
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
@@ -228,6 +228,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   projects:
+    output: true
+    permalink: /:collection/:path/
+  videos:
     output: true
     permalink: /:collection/:path/
   talks:
