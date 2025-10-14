@@ -10,14 +10,14 @@ redirect_from:
 
 ![Illustration of application of CBF to Multicopter Lateral Flight](/images/videos/PDTE-MCBF_thumbnail_v2.png){: .align-right width="300px"}
 
-<iframe width="560" height="315"
+<iframe width="752" height="423"
     src="/files/citation_map_authors_Juan_Augusto_Paredes_Salazar.html"
     title="Citation map with authors' names"
     allowfullscreen>
 </iframe>
 
-<iframe width="560" height="315"
-    src="/files/citation_map_number_Juan_Augusto_Paredes_Salazar.html"
+<iframe width="752" height="423"
+    src="/files/citation_map_number_Juan_Augusto_Paredes_Salazar_small.html"
     title="Citation map with number of citations"
     allowfullscreen>
 </iframe>
