@@ -1,6 +1,6 @@
 ---
 title: "Optimization for controller synthesis"
-excerpt: "Controller Learning and Synthesis based on Control and Trajectory Optimization <br/><img src='/images/videos/uav_trajectory_thumbnail.png'>"
+excerpt: "Controller Learning and Synthesis based on Control and Trajectory Optimization <br/><img src='/images/videos/uav_trajectory_thumbnail.png' width='752' height='423'>"
 collection: projects
 ---
 
@@ -11,3 +11,5 @@ The main tasks performed in this project were the following:
 -  Set up the optimization problems and numerical solvers using CasADi to implement optimization-based controllers, such as Model Predictive Control (MPC), and obtain optimal trajectories via nonlinear optimization.
 - Apply least-squares optimization to train linear controllers from data obtain from the optimization procedures described above; the data sets were chosen based on desired behaviors observed in the optimization results.
 - Implement Takagi-Sugeno-based fuzzy logic to interpolate the outputs of the trained linear controllers to better emulate the optimal behaviors displayed by the optimization results.
+
+<img src="/images/videos/uav_trajectory_thumbnail.png">
