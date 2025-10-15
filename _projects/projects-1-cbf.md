@@ -1,6 +1,6 @@
 ---
 title: "Control barrier functions"
-excerpt: "Control barrier functions for discrete-time systems with applications to robotics and aerospace systems<br/><img src='/images/videos/PDTE-MCBF_thumbnail_v2.png'>"
+excerpt: "Control barrier functions for discrete-time systems with applications to robotics and aerospace systems <br/><img src='/images/videos/PDTE-MCBF_thumbnail_v2.png'>"
 collection: projects
 ---
 
@@ -8,6 +8,6 @@ Control barrier functions (CBFs) have emerged as a powerful framework for enforc
 
 The main tasks performed in this project so far are the following:
 
-- Developed a discrete-time, predictive CBF formulation for systems with unmodeled delays and input dynamics. This setup simplifies the implementation of CBFs on outer-loop controllers within an inner-loop, outer-loop architecture, which is adopted in several robotics and aerospace systems
+- Developed a discrete-time, predictive CBF formulation for systems with unmodeled delays and input dynamics. This setup simplifies the implementation of CBFs on outer-loop controllers within an inner-loop, outer-loop architecture, which is adopted in several robotics and aerospace systems.
 - Developed a simulation environment to test a projection-based CBF formulation to address the feasibility and computational issues that nonconvex constraints cause in discrete-time CBF formulations; a comparison against nonconvex CBFs was established to highlight the advantages of the proposed method. 
 
