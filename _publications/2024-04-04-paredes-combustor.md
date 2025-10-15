@@ -1,0 +1,14 @@
+---
+title: "Experimental Application of a Quasi-Static Adaptive Controller to a Dual Independent Swirl Combustor"
+collection: publications
+category: manuscripts
+permalink: /publication/2024-04-04-paredes-combustor
+excerpt: 'This paper develops an adaptive feedback-control technique that operates with actuators that have low bandwidth relative to the dynamics of the combustor. Single and multiple objective control scenarios such as minimizing thermoacoustic oscillations while maintaining a user-defined temperature at the exit of the combustor are studied.'
+date: 2024-04-04
+venue: 'Combustion Science and Technology'
+citation: "J. A. Paredes, R. Ramesh, M. Gamba, and D. S. Bernstein, &quot;Experimental Application of a Quasi-Static Adaptive Controller to a Dual Independent Swirl Combustor,&quot; <i>Comb. Sci. Tech.</i>, vol. 197, no. 9, pp. 2116–2149, 2024."
+---
+
+Thermoacoustic instabilities in gas turbine combustors have multiple detrimental effects. Although active control techniques can mitigate these instabilities, high-bandwidth actuators are typically needed. The present work develops an adaptive feedback-control technique that operates with actuators that have low bandwidth relative to the dynamics of the combustor. This technique, which is an extension of retrospective cost adaptive control (RCAC) that accounts for the actuator bandwidth limitation, is called quasi-static RCAC (QSRCAC). QSRCAC uses a Kalman filter to estimate the gradients of the performance variables, which are then used as directions of search to determine the next actuator commands that minimize user-defined performance metrics. It is applied to the Dual Independent Swirl Combustor (DISCo), a methane/air gas turbine model combustor which has multiple dominant instability modes above 250 Hz and whose mass flow control inputs operate at a significantly lower bandwidth of 5 Hz. Single and multiple objective control scenarios such as minimizing thermoacoustic oscillations while maintaining a user-defined temperature at the exit of the combustor are studied. Experimental results show that QSRCAC minimizes thermoacoustic oscillations successfully in all cases. In the multi-objective scenarios, when complementary objectives are presented, such as minimizing thermoacoustic instabilities and increasing the exit temperature, QSRCAC achieves both objectives; when presented with multiple contrasting objectives, such as minimizing thermoacoustic instabilities and diminishing the exit temperature, QSRCAC minimizes thermoacoustic oscillations with higher priority.
+
+Paper: <a href = "https://dsbaero.engin.umich.edu/wp-content/uploads/sites/441/2025/08/Experimental-Application-of-a-Quasi-Static-Adaptive-Controller-to-a-Dual-Independent-Swirl-Combustor-1.pdf"> Link </a>

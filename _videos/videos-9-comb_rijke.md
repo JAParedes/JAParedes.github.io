@@ -8,7 +8,7 @@ Recordings of the introductory presentation and the experimental demonstration, 
 
 For more details, the associated paper is available online: <a href = "https://ieeexplore.ieee.org/abstract/document/10092265"> https://ieeexplore.ieee.org/abstract/document/10092265 </a>
 
-Preprint: <a href = "https://dsbaero.engin.umich.edu/wp-content/uploads/sites/441/2024/04/Experimental_Implementation_of_Retrospective_Cost_Adaptive_Control_for_Suppressing_Thermoacoustic_Oscillations_in_a_Rijke_Tube.pdf"> Link </a>
+Paper: <a href = "https://dsbaero.engin.umich.edu/wp-content/uploads/sites/441/2024/04/Experimental_Implementation_of_Retrospective_Cost_Adaptive_Control_for_Suppressing_Thermoacoustic_Oscillations_in_a_Rijke_Tube.pdf"> Link </a>
 
 Original video link (Presentation): <a href = "https://youtu.be/QWAU6RwlTdA"> https://youtu.be/QWAU6RwlTdA </a>
 

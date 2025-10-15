@@ -8,7 +8,7 @@ A quasi-static adaptive controller is applied to a swirl-stabilized gas turbine 
 
 For more details, the paper is available online: <a href = "https://www.tandfonline.com/doi/full/10.1080/00102202.2024.2306301"> https://www.tandfonline.com/doi/full/10.1080/00102202.2024.2306301 </a>
 
-Preprint: <a href = "https://dsbaero.engin.umich.edu/wp-content/uploads/sites/441/2024/04/Experimental-Application-of-a-Quasi-Static-Adaptive-Controller-to-a-Dual-Independent-Swirl-Combustor.pdf"> Link </a>
+Paper: <a href = "https://dsbaero.engin.umich.edu/wp-content/uploads/sites/441/2024/04/Experimental-Application-of-a-Quasi-Static-Adaptive-Controller-to-a-Dual-Independent-Swirl-Combustor.pdf"> Link </a>
 
 Original video link: <a href = "https://youtu.be/actxO9DAnwc"> https://youtu.be/actxO9DAnwc </a>
 

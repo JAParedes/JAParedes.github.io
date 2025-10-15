@@ -8,9 +8,9 @@ Self-excited systems converge to an oscillatory trajectory under constant inputs
 
 This presentation was used in ACC 2021.
 
-For more details, the paper is available online: <a href = "https://ieeexplore.ieee.org/abstract/document/9482805"> https://ieeexplore.ieee.org/abstract/document/9482805 </a>
+For more details, the paper is available online: <a href = "https://ieeexplore.ieee.org/abstract/document/9482805"> Link </a>
 
-Preprint: <a href = "https://arxiv.org/pdf/2004.14488v1"> [Link](https://arxiv.org/pdf/2004.14488v1) </a>
+Preprint: <a href = "https://arxiv.org/pdf/2004.14488v1"> Link </a>
 
 Original video link: <a href = "https://youtu.be/tSyy4aJWAOA"> https://youtu.be/tSyy4aJWAOA </a>
 

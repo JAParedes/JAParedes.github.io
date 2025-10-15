@@ -6,7 +6,7 @@ collection: videos
 
 Flight test results obtained from implementing the adaptive digital autopilot on a fixed-wing RC aircraft.
 
-More results and background information available in the "Experimental Flight Testing of a Fault-Tolerant Adaptive Autopilot for Fixed-Wing Aircraft" in <a href = "https://arxiv.org/pdf/2210.13621"> https://arxiv.org/pdf/2210.13621 </a>
+More results and background information available in the "Experimental Flight Testing of a Fault-Tolerant Adaptive Autopilot for Fixed-Wing Aircraft" in <a href = "https://arxiv.org/pdf/2210.13621"> Link </a>
 
 Original video link: <a href = "https://youtu.be/yarwDc8KDV0"> https://youtu.be/yarwDc8KDV0 </a>
 

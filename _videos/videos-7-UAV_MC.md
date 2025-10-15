@@ -6,7 +6,7 @@ collection: videos
 
 Flight test results obtained from implementing the adaptive autotuner described in "An Adaptive PID Autotuner for Multicopters with Experimental Results".
 
-Preprint available in: <a href = "https://arxiv.org/abs/2109.12797"> https://arxiv.org/abs/2109.12797 </a>
+Preprint available in: <a href = "https://arxiv.org/abs/2109.12797"> Link </a>
 
 Original video link: <a href = "https://youtu.be/8eQhc5de75Y"> https://youtu.be/8eQhc5de75Y </a>
 
