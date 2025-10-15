@@ -1,6 +1,6 @@
 ---
 title: "Predictive Control Barrier Functions (PCBF) applied to Bicopter Lateral Flight"
-excerpt: "<br/><img src='/images/videos/PCBF_thumbnail_1.png'>"
+excerpt: "<br/><img src='/images/videos/PCBF_thumbnail_1.png' width='752' height='423'>"
 collection: videos
 ---
 

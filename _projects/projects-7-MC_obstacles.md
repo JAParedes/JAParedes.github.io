@@ -1,6 +1,6 @@
 ---
 title: "Obstacle Avoidance Device for Multirotor UAVs"
-excerpt: "Development of a Multicopter Device with interface to PX4 Autopilot to Enable Obstacle Avoidance <br/><img src='/images/videos/MC_obstacles_thumbnail.png'>"
+excerpt: "Development of a Multicopter Device with interface to PX4 Autopilot to Enable Obstacle Avoidance <br/><img src='/images/videos/MC_obstacles_thumbnail.png' width='752' height='423'>"
 collection: projects
 ---
 
@@ -13,3 +13,5 @@ The main tasks performed in this project were the following:
 - Designed and fabricated prototype structure to mount LIDAR sensor and companion computer to multicopter frame.
 - Developed multirotor guidance algorithm for concurrent goal seeking and obstacle avoidance using GPS and LIDAR measurements.
 - Verified system operation and embedded controller performance through Software-in-the-Loop (SITL) simulations.
+
+<img src="/images/videos/MC_obstacles_thumbnail.png">

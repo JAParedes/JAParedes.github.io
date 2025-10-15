@@ -1,6 +1,6 @@
 ---
 title: "Inverted Pendulum on a Cart system stabilization via MPC control schemes"
-excerpt: "<br/><img src='/images/videos/inv_pend_thumbnail.png'>"
+excerpt: "<br/><img src='/images/videos/inv_pend_thumbnail.png' width='752' height='423'>"
 collection: videos
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Adaptive Control of Self-Excited Systems"
-excerpt: "Adaptive Control of Self-Excited Systems with Application to Thermoacoustic Oscillations <br/><img src='/images/videos/comb_disco_thumbnail.png'>"
+excerpt: "Adaptive Control of Self-Excited Systems with Application to Thermoacoustic Oscillations <br/><img src='/images/videos/comb_disco_thumbnail.png' width='752' height='423'>"
 collection: projects
 ---
 
@@ -12,3 +12,5 @@ The main tasks performed in this project were the following:
 
 - Developed a methodology to choose RCAC hyperparameters and applied RCAC to a Rijke-tube experiment to test stabilization performance over a range of operating conditions.
 - Developed an extension of RCAC called quasi-static RCAC (QSRCAC) for online optimization applications, and applied it to a physical combustor to obtain operating conditions under which thermoacoustic oscillations are reduced while reaching a specified exit temperature corresponding to a desired flame length.
+
+<img src="/images/videos/comb_disco_thumbnail.png">

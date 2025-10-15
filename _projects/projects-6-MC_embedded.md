@@ -1,6 +1,6 @@
 ---
 title: "Multicopter Controllers for Embedded Systems"
-excerpt: "Development and Evaluation of Multicopter Controllers for Computationally Limited Embedded Systems <br/><img src='/images/videos/embedded_thumbnail.png'>"
+excerpt: "Development and Evaluation of Multicopter Controllers for Computationally Limited Embedded Systems <br/><img src='/images/videos/embedded_thumbnail.png' width='752' height='423'>"
 collection: projects
 ---
 
@@ -14,3 +14,5 @@ The main tasks performed in this project were the following:
 - Performed closed-loop simulation tests to tune the hyperparameters of PID, LQR and EMPC for suitable position tracking performance.
 - Implemented the control and trajectory generation algorithms in C code for compilation and execution in the target embedded system.
 - Performed closed-loop physical tests to determine trajectory following performance of the tuned digital controllers.
+
+<img src="/images/videos/embedded_thumbnail.png">

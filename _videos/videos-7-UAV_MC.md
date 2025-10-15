@@ -1,6 +1,6 @@
 ---
 title: "An Adaptive PID Autotuner for Multicopters with Experimental Results: Flight tests with GPS data"
-excerpt: "<br/><img src='/images/videos/uav_MC_thumbnail.png'>"
+excerpt: "<br/><img src='/images/videos/uav_MC_thumbnail.png' width='752' height='423'>"
 collection: videos
 ---
 

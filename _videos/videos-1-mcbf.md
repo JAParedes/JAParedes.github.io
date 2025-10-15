@@ -1,6 +1,6 @@
 ---
 title: "Projection-based, Discrete time, Exponential Matrix CBF applied to Bicopter Lateral Flight"
-excerpt: "<br/><img src='/images/videos/PDTE-MCBF_thumbnail_v2.png'>"
+excerpt: "<br/><img src='/images/videos/PDTE-MCBF_thumbnail_v2.png' width='752' height='423'>"
 collection: videos
 ---
 

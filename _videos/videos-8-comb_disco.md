@@ -1,6 +1,6 @@
 ---
 title: "Experimental Application of a Quasi Static Adaptive Controller to a Dual Independent Swirl Combustor"
-excerpt: "<br/><img src='/images/videos/comb_disco_thumbnail.png'>"
+excerpt: "<br/><img src='/images/videos/comb_disco_thumbnail.png' width='752' height='423'>"
 collection: videos
 ---
 

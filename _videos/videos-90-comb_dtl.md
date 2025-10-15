@@ -1,6 +1,6 @@
 ---
 title: "Identification of Self-Excited Systems Using Discrete-Time, Time-Delayed Lur'e Models"
-excerpt: "<br/><img src='/images/videos/comb_dtl_thumbnail.png'>"
+excerpt: "<br/><img src='/images/videos/comb_dtl_thumbnail.png' width='752' height='423'>"
 collection: videos
 ---
 

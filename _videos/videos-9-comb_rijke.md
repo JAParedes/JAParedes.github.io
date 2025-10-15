@@ -1,6 +1,6 @@
 ---
 title: "Stabilization of Thermoacoustic Oscillations in a Rijke Tube"
-excerpt: "<br/><img src='/images/videos/comb_rijke_thumbnail.png'>"
+excerpt: "<br/><img src='/images/videos/comb_rijke_thumbnail.png' width='752' height='423'>"
 collection: videos
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Time-optimal trajectory planning for multicopter UAV lateral flight"
-excerpt: "<br/><img src='/images/videos/uav_trajectory_thumbnail.png'>"
+excerpt: "<br/><img src='/images/videos/uav_trajectory_thumbnail.png' width='752' height='423'>"
 collection: videos
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Adaptive Autopilot for UAVs"
-excerpt: "Adaptive Digital Autopilot Development for Unmanned Aerial Vehicles (UAVs) <br/><img src='/images/videos/uav_MC_thumbnail.png'>"
+excerpt: "Adaptive Digital Autopilot Development for Unmanned Aerial Vehicles (UAVs) <br/><img src='/images/videos/uav_MC_thumbnail.png' width='752' height='423'>"
 collection: projects
 ---
 
@@ -12,3 +12,5 @@ The main tasks performed in this project were the following:
 
 - Implemented an adaptive control algorithm in the PX4 autopilot firmware for simulation and physical testing.
 - Designed and developed a wireless communication setup to allow the transmission of Motion Capture (MOCAP) measurements for state estimation.
+
+<img src="/images/videos/uav_MC_thumbnail.png">

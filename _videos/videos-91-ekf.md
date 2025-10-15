@@ -1,6 +1,6 @@
 ---
 title: "Satellite Position Estimation via an Extended Kalman Filter (EKF) Using Angle and Range Measurements"
-excerpt: "<br/><img src='/images/videos/ekf_thumbnail.png'>"
+excerpt: "<br/><img src='/images/videos/ekf_thumbnail.png' width='752' height='423'>"
 collection: videos
 ---
 

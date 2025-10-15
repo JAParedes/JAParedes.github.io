@@ -1,6 +1,6 @@
 ---
 title: "Equations of Motion for Wheel Rolling Without Slipping Within Wheel"
-excerpt: "<br/><img src='/images/videos/dyn_thumbnail.png'>"
+excerpt: "<br/><img src='/images/videos/dyn_thumbnail.png' width='752' height='423'>"
 collection: videos
 ---
 

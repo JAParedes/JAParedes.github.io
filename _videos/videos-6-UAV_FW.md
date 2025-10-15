@@ -1,6 +1,6 @@
 ---
 title: "An adaptive digital autopilot for fixed-wing aircraft"
-excerpt: "<br/><img src='/images/videos/uav_FW_thumbnail.png'>"
+excerpt: "<br/><img src='/images/videos/uav_FW_thumbnail.png' width='752' height='423'>"
 collection: videos
 ---
 

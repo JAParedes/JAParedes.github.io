@@ -1,6 +1,6 @@
 ---
 title: "Predictive Control Barrier Function for Octagonal Position Constraint Enforcement of Multicopter"
-excerpt: "<br/><img src='/images/videos/PCBF_thumbnail_2.png'>"
+excerpt: "<br/><img src='/images/videos/PCBF_thumbnail_2.png' width='752' height='423'>"
 collection: videos
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Adaptive Model Predictive Control"
-excerpt: "Adaptive Model Predictive Control for Aerospace Applications and Performance Diagnostics <br/><img src='/images/videos/pcac_thumbnail.png'>"
+excerpt: "Adaptive Model Predictive Control for Aerospace Applications and Performance Diagnostics <br/><img src='/images/videos/pcac_thumbnail.png' width='752' height='423'>"
 collection: projects
 ---
 
@@ -13,3 +13,5 @@ The main tasks performed in this project were the following:
 - Evaluated absolute stability properties of PCAC applied to Lur'e systems (systems with nonlinear feedback).
 - Applied PCAC to a Rijke-tube experiment to test stabilization performance over a range of operating conditions.
 - Applied PCAC to nonlinear longitudinal aircraft dynamics in a simulation environment to test trajectory-following performance.
+
+<img src="/images/videos/pcac_thumbnail.png">

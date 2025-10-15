@@ -1,6 +1,6 @@
 ---
 title: "Solving Ordinary Differential Equations (ODEs) with Matlab and Simulink"
-excerpt: "<br/><img src='/images/videos/ode_thumbnail.png'>"
+excerpt: "<br/><img src='/images/videos/ode_thumbnail.png' width='752' height='423'>"
 collection: videos
 ---
 
