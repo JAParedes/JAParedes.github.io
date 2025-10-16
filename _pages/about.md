@@ -7,31 +7,31 @@ redirect_from:
   - /about.html
 ---
 
-
-![Illustration of application of CBF to Multicopter Lateral Flight](/images/videos/main_page_thumbnail.png){: .align-right width="500px"}
-
 I'm a Research Fellow at the Mechanical Engineering Department at UMBC. 
+
+![Illustration of application of CBF to Multicopter Lateral Flight](/images/videos/main_page_thumbnail.png){: .align-center width="500px"}
 
 Research Interests
 ======
 My research interests are the development of Guidance, Navigation and Control algorithms with applications to Unmanned Aerial Vehicles (UAVs) and aerospace systems. In particular, my reserach interests are in the following topics:
--Adaptive Control
--Optimal Control and Model Predictive Control
--Data-driven Learning for Control
--Control Barrier Functions for Safe Control Synthesis
--Kalman Filtering for State Estimation
+- Adaptive Control
+- Optimal Control and Model Predictive Control
+- Data-driven Learning for Control
+- Control Barrier Functions for Safe Control Synthesis
+- Kalman Filtering for State Estimation
 
 
 Webpage Overview
 ======
 Feel free to check my projects and their associated multimedia, as well as the provided code. The tabs above lead to the following content:
--<b>CV</b>: My latest Curriculum Vitae.
--<b>Publications</b>: Academic publications I have authored over te years. Click here for more details, such as links to the papers.
--<b>Projects</b>: Projects in which I have worked over the years. Click here for more details, such as associated papers, code, and media.
--<b>Videos</b>: Collection of videos associated to my work. Click here to get access to the videos and more details about them.
+- <b>CV</b>: My latest Curriculum Vitae.
+- <b>Publications</b>: Academic publications I have authored over te years. Click here for more details, such as links to the papers.
+- <b>Projects</b>: Projects in which I have worked over the years. Click here for more details, such as associated papers, code, and media.
+- <b>Videos</b>: Collection of videos associated to my work. Click here to get access to the videos and more details about them.
 
 
-**Citation Map with Location of Citing Authors**
+Citation Map with Location of Citing Authors
+======
 
 A citation map that shows the location in the world of the authors that have cited my work is displayed below. This citation map was created by using the <i>CitationMap</i> Python tool available in <a href ="https://github.com/ChenLiu-1996/CitationMap">here</a>. Full map is available <a href ="/files/citation_map_authors_Juan_Augusto_Paredes_Salazar.html">here</a>. Last Updated: 10/12/2025
 
@@ -41,7 +41,8 @@ A citation map that shows the location in the world of the authors that have cit
     allowfullscreen>
 </iframe>
 
-**Citation Map with Number of Citing Authors**
+Citation Map with Number of Citing Authors
+======
 
 A citation map that shows the number of authors that have cited my work at different locations in the world is displayed below. This citation map was created by using the <i>MapCitator</i> code available in <a href ="https://github.com/Dias-Lab/MapCitator">here</a>. Full map is available <a href ="/files/citation_map_number_Juan_Augusto_Paredes_Salazar.html">here</a>. Last Updated: 10/12/2025
 
