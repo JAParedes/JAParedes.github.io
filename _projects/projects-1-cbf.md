@@ -13,8 +13,8 @@ The main tasks performed in this project so far are the following:
 
 **Papers**
 
-- Computing Safe Control Inputs using Discrete-Time Matrix Control Barrier Functions via Convex Optimization (<a href = "https://japaredes.github.io/publication/2025-10-10-usevitch-mcbf">Details</a>)
-- Predictive Control Barrier Functions for Discrete-Time Linear Systems with Unmodeled Delays (<a href = "https://japaredes.github.io/publication/2025-12-12-paredes-pcbf">Details</a>)
+- Computing Safe Control Inputs using Discrete-Time Matrix Control Barrier Functions via Convex Optimization (<a href = "https://japaredes.github.io/publication/2025-10-10-usevitch-mcbf">More details</a>)
+- Predictive Control Barrier Functions for Discrete-Time Linear Systems with Unmodeled Delays (<a href = "https://japaredes.github.io/publication/2025-12-12-paredes-pcbf">More details</a>)
 
 **Videos**
 
