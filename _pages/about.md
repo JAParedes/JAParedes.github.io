@@ -36,7 +36,11 @@ Feel free to check my projects and their associated multimedia, as well as the p
 Citation Map with Location of Citing Authors
 ======
 
-A citation map that shows the location in the world of the authors that have cited my work is displayed below. This citation map was created by using the <i>CitationMap</i> Python tool available in <a href ="https://github.com/ChenLiu-1996/CitationMap">here</a>. Full map is available <a href ="/files/citation_map_authors_Juan_Augusto_Paredes_Salazar.html">here</a>. Last Updated: 10/12/2025
+A citation map that shows the location in the world of the authors that have cited my work is displayed below. This citation map was created by using the <i>CitationMap</i> Python tool available in <a href ="https://github.com/ChenLiu-1996/CitationMap">here</a>. 
+
+Full map is available <a href ="/files/citation_map_authors_Juan_Augusto_Paredes_Salazar.html">here</a>.
+
+Last Updated: 10/12/2025
 
 <iframe width="752" height="423"
     src="/files/citation_map_authors_Juan_Augusto_Paredes_Salazar.html"
@@ -47,7 +51,11 @@ A citation map that shows the location in the world of the authors that have cit
 Citation Map with Number of Citing Authors
 ======
 
-A citation map that shows the number of authors that have cited my work at different locations in the world is displayed below. This citation map was created by using the <i>MapCitator</i> code available in <a href ="https://github.com/Dias-Lab/MapCitator">here</a>. Full map is available <a href ="/files/citation_map_number_Juan_Augusto_Paredes_Salazar.html">here</a>. Last Updated: 10/12/2025
+A citation map that shows the number of authors that have cited my work at different locations in the world is displayed below. This citation map was created by using the <i>MapCitator</i> code available in <a href ="https://github.com/Dias-Lab/MapCitator">here</a>. 
+
+Full map is available <a href ="/files/citation_map_number_Juan_Augusto_Paredes_Salazar.html">here</a>.
+
+Last Updated: 10/12/2025
 
 <iframe width="752" height="423"
     src="/files/citation_map_number_Juan_Augusto_Paredes_Salazar_small.html"
