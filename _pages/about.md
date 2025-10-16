@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Research Fellow at the Mechanical Engineering Department at UMBC. 
+My name is Juan Augusto Paredes Salazar, PhD. in Aerospace Engineering. I created this website to compile all of my academic and personal work. Please, feel free to browse the contents in this site. 
+
+A figure related to my latest work is displayed below. At the end of this page you will find citation maps with the locations of authors that have cited my work.
 
 <figure>
   <img src="/images/videos/main_page_thumbnail.png" alt="Illustration of application of CBF to Multicopter Lateral Flight" class="align-center" width="80%">
