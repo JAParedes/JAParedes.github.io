@@ -13,13 +13,13 @@ The main tasks performed in this project so far are the following:
 
 **Papers**
 
-- Computing Safe Control Inputs using Discrete-Time Matrix Control Barrier Functions via Convex Optimization (<a href = "https://japaredes.github.io/publication/2025-10-10-usevitch-mcbf"> Details </a>)
-- Predictive Control Barrier Functions for Discrete-Time Linear Systems with Unmodeled Delays (<a href = "https://japaredes.github.io/publication/2025-12-12-paredes-pcbf"> Details </a>)
+- Computing Safe Control Inputs using Discrete-Time Matrix Control Barrier Functions via Convex Optimization (<a href = "https://japaredes.github.io/publication/2025-10-10-usevitch-mcbf">Details</a>)
+- Predictive Control Barrier Functions for Discrete-Time Linear Systems with Unmodeled Delays (<a href = "https://japaredes.github.io/publication/2025-12-12-paredes-pcbf">Details</a>)
 
 **Videos**
 
-- Projection-based, Discrete time, Exponential Matrix CBF applied to Bicopter Lateral Flight (<a href = "https://japaredes.github.io/videos/videos-1-mcbf/"> Link </a>)
-- Predictive Control Barrier Functions (PCBF) applied to Bicopter Lateral Flight (<a href = "https://japaredes.github.io/videos/videos-2-pcbf/"> Link </a>)
-- Predictive Control Barrier Function for Octagonal Position Constraint Enforcement of Multicopter (<a href = "https://japaredes.github.io/videos/videos-3-pcbf/"> Link </a>)
+- Projection-based, Discrete time, Exponential Matrix CBF applied to Bicopter Lateral Flight (<a href = "https://japaredes.github.io/videos/videos-1-mcbf/">Link</a>)
+- Predictive Control Barrier Functions (PCBF) applied to Bicopter Lateral Flight (<a href = "https://japaredes.github.io/videos/videos-2-pcbf/">Link</a>)
+- Predictive Control Barrier Function for Octagonal Position Constraint Enforcement of Multicopter (<a href = "https://japaredes.github.io/videos/videos-3-pcbf/">Link</a>)
 
 <img src="/images/videos/PDTE-MCBF_thumbnail_v2.png">
