@@ -9,7 +9,14 @@ redirect_from:
 
 I'm a Research Fellow at the Mechanical Engineering Department at UMBC. 
 
+<!---
 ![Illustration of application of CBF to Multicopter Lateral Flight](/images/videos/main_page_thumbnail.png){: .align-center width="500px"}
+--->
+
+<figure>
+  <img src="/images/videos/main_page_thumbnail.png" alt="Illustration of application of CBF to Multicopter Lateral Flight" class="align-center" width="100%">
+  <figcaption>Illustration of application of CBF to Multicopter Lateral Flight. Project details <a href ="https://japaredes.github.io/projects/projects-1-cbf/">here</a>.</figcaption>
+</figure>
 
 Research Interests
 ======
