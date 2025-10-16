@@ -12,4 +12,20 @@ The main tasks performed in this project were the following:
 - Apply least-squares optimization to train linear controllers from data obtain from the optimization procedures described above; the data sets were chosen based on desired behaviors observed in the optimization results.
 - Implement Takagi-Sugeno-based fuzzy logic to interpolate the outputs of the trained linear controllers to better emulate the optimal behaviors displayed by the optimization results.
 
+**Papers**
+
+- Data-driven Fuzzy Control for Time-Optimal, Aggressive Trajectory Tracking (<a href = "https://japaredes.github.io/publication/2025-10-10-phelps_time-optimal">More details</a>)
+- MPC-guided, data-driven fuzzy controller synthesis (<a href = "https://japaredes.github.io/publication/2025-07-07-paredes-mpc">More details</a>)
+
+**Videos**
+
+- Time-optimal trajectory planning for multicopter UAV lateral flight (<a href = "https://japaredes.github.io/videos/videos-4-uav-trajectory/">Link</a>)
+- Inverted Pendulum on a Cart system stabilization via MPC control schemes (<a href = "https://japaredes.github.io/videos/videos-5-inv_pend/">Link</a>)
+
+**Code**
+
+- Trajectory Optimization for Multicopter UAV Lateral Flight (<a href = "https://github.com/JAParedes/Trajectory_Optimization_for_Multicopter_UAV_Lateral_Flight">Link</a>)
+- MPC for Inverted Pendulum on a Cart Stabilization (<a href = "https://github.com/JAParedes/MPC_for_inverted_pendulum_on_a_cart_stabilization">Link</a>)
+
+
 <img src="/images/videos/uav_trajectory_thumbnail.png">

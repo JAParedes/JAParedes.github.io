@@ -14,4 +14,10 @@ The main tasks performed in this project were the following:
 - Applied PCAC to a Rijke-tube experiment to test stabilization performance over a range of operating conditions.
 - Applied PCAC to nonlinear longitudinal aircraft dynamics in a simulation environment to test trajectory-following performance.
 
+**Papers**
+
+- Absolute-Stability-Based Closed-Loop Stability Analysis of Adaptive Model Predictive Control for Self-Excited Lur’e Systems (<a href = "https://japaredes.github.io/publication/2025-05-05-paredes-pcac-absolute">More details</a>)
+- Experimental Application of Predictive Cost Adaptive Control to Thermoacoustic Oscillations in a Rijke Tube with Unknown Input Delay (<a href = "https://japaredes.github.io/publication/2025-08-08-paredes-rijke-pcac">More details</a>)
+- Predictive Cost Adaptive Control of Fixed-Wing Aircraft Without Prior Modeling (<a href = "https://japaredes.github.io/publication/2025-03-03-riley-fw-pcac">More details</a>)
+
 <img src="/images/videos/pcac_thumbnail.png">

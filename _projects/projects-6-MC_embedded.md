@@ -4,8 +4,6 @@ excerpt: "Development and Evaluation of Multicopter Controllers for Computationa
 collection: projects
 ---
 
-<b>Source of Funding:</b> National Science Foundation (NSF) under grant CMMI 1634709.
-
 The aim of the project is the evaluation of digital controllers for multicopter systems, suitable for real-time implementation in low power embedded systems. For this purpose, PID, LQR and explicit MPC (EMPC) techniques are implemented in a quadcopter system, which is flown in an outdoor testing facility and made to track an inclined, circular path at different tangential velocities under ambient wind conditions.
 
 The main tasks performed in this project were the following:
@@ -15,4 +13,12 @@ The main tasks performed in this project were the following:
 - Implemented the control and trajectory generation algorithms in C code for compilation and execution in the target embedded system.
 - Performed closed-loop physical tests to determine trajectory following performance of the tuned digital controllers.
 
+**Paper**
+
+- Development, implementation, and experimental outdoor evaluation of quadcopter controllers for computationally limited embedded systems (<a href = "https://japaredes.github.io/publication/2021-08-08-paredes-UAV_embedded">More details</a>)
+
 <img src="/images/videos/embedded_thumbnail.png">
+
+**Code**
+
+- Quadcopter control using discrete-time LQR-I (<a href = "https://github.com/JAParedes/Quadcopter_DT_LQRI_sim">Link</a>)

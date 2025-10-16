@@ -9,12 +9,8 @@ redirect_from:
 
 I'm a Research Fellow at the Mechanical Engineering Department at UMBC. 
 
-<!---
-![Illustration of application of CBF to Multicopter Lateral Flight](/images/videos/main_page_thumbnail.png){: .align-center width="500px"}
---->
-
 <figure>
-  <img src="/images/videos/main_page_thumbnail.png" alt="Illustration of application of CBF to Multicopter Lateral Flight" class="align-center" width="100%">
+  <img src="/images/videos/main_page_thumbnail.png" alt="Illustration of application of CBF to Multicopter Lateral Flight" class="align-center" width="80%">
   <figcaption>Illustration of application of CBF to Multicopter Lateral Flight. Project details <a href ="https://japaredes.github.io/projects/projects-1-cbf/">here</a>.</figcaption>
 </figure>
 
@@ -58,6 +54,7 @@ A citation map that shows the number of authors that have cited my work at diffe
     title="Citation map with number of citations"
     allowfullscreen>
 </iframe>
+
 
 <!---
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!

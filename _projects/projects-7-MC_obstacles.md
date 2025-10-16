@@ -14,4 +14,8 @@ The main tasks performed in this project were the following:
 - Developed multirotor guidance algorithm for concurrent goal seeking and obstacle avoidance using GPS and LIDAR measurements.
 - Verified system operation and embedded controller performance through Software-in-the-Loop (SITL) simulations.
 
+**Paper**
+
+- Obstacle Detection and Avoidance Device for Multirotor UAVs through interface with Pixhawk Flight Controller (<a href = "https://japaredes.github.io/publication/2018-07-07-paredes-obstacle-UAV">More details</a>)
+
 <img src="/images/videos/MC_obstacles_thumbnail.png">

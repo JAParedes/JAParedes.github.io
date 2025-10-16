@@ -13,4 +13,21 @@ The main tasks performed in this project were the following:
 - Implemented an adaptive control algorithm in the PX4 autopilot firmware for simulation and physical testing.
 - Designed and developed a wireless communication setup to allow the transmission of Motion Capture (MOCAP) measurements for state estimation.
 
+**Papers**
+
+- Single-Shot Learning of Multirotor Controller Gains: A Data-Driven Approach with Experimental Validation (<a href = "https://japaredes.github.io/publication/2025-09-09-mirtaba-UAV-rcac">More details</a>)
+- A Hammerstein-Weiner Modification of Adaptive Autopilot for Parameter Drift Mitigation with Experimental Results (<a href = "https://japaredes.github.io/publication/2024-09-09-UAV-drift">More details</a>)
+- Data-Driven Retrospective-Cost-Based Adaptive Digital PID Control (<a href = "https://japaredes.github.io/publication/2024-07-07-ddrcac-uav">More details</a>)
+- Performance Comparison of Adaptive Autopilot Architectures for Multicopter Stabilization and Trajectory Tracking (<a href = "https://japaredes.github.io/publication/2024-04-04-autopilot-architectures">More details</a>)
+- Experimental Flight Testing of a Fault-Tolerant Adaptive Autopilot for Fixed-Wing Aircraft (<a href = "https://japaredes.github.io/publication/2023-07-07-lee-FW-autopilot">More details</a>)
+- An adaptive PID autotuner for multicopters with experimental results (<a href = "https://japaredes.github.io/publication/2022-06-06-spencer-MC-A-PID">More details</a>)
+- Experimental Implementation of an Adaptive Digital Autopilot (<a href = "https://japaredes.github.io/publication/2021-08-08-goel-adaptive-autopilot">More details</a>)
+
+**Videos**
+
+- An Adaptive PID Autotuner for Multicopters with Experimental Results: Flight tests with GPS data (<a href = "https://japaredes.github.io/videos/videos-7-UAV_MC/">Link</a>)
+- An adaptive digital autopilot for fixed-wing aircraft (<a href = "https://japaredes.github.io/videos/videos-6-UAV_FW/">Link</a>)
+
+
+
 <img src="/images/videos/uav_MC_thumbnail.png">
