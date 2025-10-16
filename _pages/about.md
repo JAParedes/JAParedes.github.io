@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-![Illustration of application of CBF to Multicopter Lateral Flight](/images/videos/PDTE-MCBF_thumbnail_v2.png){: .align-right width="500px"}
+![Illustration of application of CBF to Multicopter Lateral Flight](/images/videos/PDTE-MCBF_thumbnail_v2.png){: .align-right width="500px"} I'm a Research Fellow at UMBC with research interests in Guidance, Navigation and Control of UAVs and aerospace systems. Feel free to check my projects and their associated multimedia, as well as the provided code.
 
 <iframe width="752" height="423"
     src="/files/citation_map_authors_Juan_Augusto_Paredes_Salazar.html"
