@@ -275,8 +275,8 @@ figcaption {
     display: none; /* Hide mobile iframe by default */
 }
 
-.mobile-link {
-    display: block; /* Show desktop link by default */
+.desktop-link {
+    display: inline; /* Show desktop link by default */
   }
 
 .mobile-link {
@@ -297,7 +297,7 @@ figcaption {
     }
 
     .mobile-link {
-        display: block; /* Show mobile link on mobile */
+        display: inline; /* Show mobile link on mobile */
     }
 }
 
