@@ -44,11 +44,17 @@ Full map is available <a href ="/files/citation_map_authors_Juan_Augusto_Paredes
 
 Last Updated: 10/12/2025
 
+<div style="position: relative; padding-top: 56.25%; width: 100%;">
+    <iframe src="/files/citation_map_authors_Juan_Augusto_Paredes_Salazar.html" title="Citation map with authors' names" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<!---
 <iframe width="752" height="423"
     src="/files/citation_map_authors_Juan_Augusto_Paredes_Salazar.html"
     title="Citation map with authors' names"
     allowfullscreen>
 </iframe>
+--->
 
 Citation Map with Number of Citing Authors
 ======
