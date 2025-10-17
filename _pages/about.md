@@ -29,10 +29,10 @@ My research interests are the development of Guidance, Navigation and Control al
 Webpage Overview
 ======
 Feel free to check my projects and their associated multimedia, as well as the provided code. The tabs above lead to the following content:
-- <b>CV</b>: My latest Curriculum Vitae.
-- <b>Publications</b>: Academic publications I have authored over te years. Click here for more details, such as links to the papers.
-- <b>Projects</b>: Projects in which I have worked over the years. Click here for more details, such as associated papers, code, and media.
-- <b>Videos</b>: Collection of videos associated to my work. Click here to get access to the videos and more details about them.
+- <b>CV</b>: My latest Curriculum Vitae. Click <a href ="https://japaredes.github.io/files/Juan_Augusto_Paredes_Salazar_CV.pdf">here</a> to see the file online.
+- <b>Publications</b>: Academic publications I have authored over te years. Click <a href ="https://japaredes.github.io/publications">here</a> for more details, such as links to the papers.
+- <b>Projects</b>: Projects in which I have worked over the years. Click <a href ="https://japaredes.github.io/projects">here</a> for more details, such as associated papers, code, and media.
+- <b>Videos</b>: Collection of videos associated to my work. Click <a href ="https://japaredes.github.io/videos">here</a> to get access to the videos and more details about them.
 
 
 Citation Map with Location of Citing Authors
@@ -48,14 +48,6 @@ Last Updated: 10/12/2025
     <iframe src="/files/citation_map_authors_Juan_Augusto_Paredes_Salazar.html" title="Citation map with authors' names" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<!---
-<iframe width="752" height="423"
-    src="/files/citation_map_authors_Juan_Augusto_Paredes_Salazar.html"
-    title="Citation map with authors' names"
-    allowfullscreen>
-</iframe>
---->
-
 Citation Map with Number of Citing Authors
 ======
 
@@ -68,14 +60,6 @@ Last Updated: 10/12/2025
 <div style="position: relative; padding-top: 56.25%; width: 100%;">
     <iframe src="/files/citation_map_number_Juan_Augusto_Paredes_Salazar_small.html" title="Citation map with number of citations" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen></iframe>
 </div>
-
-<!---
-<iframe width="752" height="423"
-    src="/files/citation_map_number_Juan_Augusto_Paredes_Salazar_small.html"
-    title="Citation map with number of citations"
-    allowfullscreen>
-</iframe>
---->
 
 <!---
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
