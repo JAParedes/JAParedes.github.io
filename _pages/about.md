@@ -59,12 +59,17 @@ Full map is available <a href ="/files/citation_map_number_Juan_Augusto_Paredes_
 
 Last Updated: 10/12/2025
 
+<div style="position: relative; padding-top: 56.25%; width: 100%;">
+    <iframe src="/files/citation_map_number_Juan_Augusto_Paredes_Salazar_small.html" title="Citation map with number of citations" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<!---
 <iframe width="752" height="423"
     src="/files/citation_map_number_Juan_Augusto_Paredes_Salazar_small.html"
     title="Citation map with number of citations"
     allowfullscreen>
 </iframe>
-
+--->
 
 <!---
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
