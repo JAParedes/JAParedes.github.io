@@ -267,6 +267,25 @@ figcaption {
 }
 
 
+.desktop-iframe {
+    display: block; /* Show desktop iframe by default */
+}
+
+.mobile-iframe {
+    display: none; /* Hide mobile iframe by default */
+}
+
+@media screen and (max-width: 768px) {
+    .desktop-iframe {
+        display: none; /* Hide desktop iframe on mobile */
+    }
+
+    .mobile-iframe {
+        display: block; /* Show mobile iframe on mobile */
+    }
+}
+
+
 /* Fix IE9 SVG bug */
 
 svg:not(:root) {

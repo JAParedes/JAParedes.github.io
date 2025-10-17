@@ -57,8 +57,12 @@ Full map is available <a href ="/files/citation_map_number_Juan_Augusto_Paredes_
 
 Last Updated: 10/12/2025
 
-<div style="position: relative; padding-top: 56.25%; width: 100%;">
+<div class="desktop-iframe" style="position: relative; padding-top: 56.25%; width: 100%;">
     <iframe src="/files/citation_map_number_Juan_Augusto_Paredes_Salazar_small.html" title="Citation map with number of citations" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="mobile-iframe" style="position: relative; padding-top: 56.25%; width: 100%;">
+    <iframe src="/files/citation_map_number_Juan_Augusto_Paredes_Salazar_smaller.html" title="Citation map with number of citations" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <!---
