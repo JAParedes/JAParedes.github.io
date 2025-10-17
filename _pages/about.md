@@ -53,7 +53,7 @@ Citation Map with Number of Citing Authors
 
 A citation map that shows the number of authors that have cited my work at different locations in the world is displayed below. This citation map was created by using the <i>MapCitator</i> code available in <a href ="https://github.com/Dias-Lab/MapCitator">here</a>. 
 
-Full map is available <a href ="/files/citation_map_number_Juan_Augusto_Paredes_Salazar.html">here</a>.
+Full map is available <a class="desktop-link" href ="/files/citation_map_number_Juan_Augusto_Paredes_Salazar.html">here</a><a class="mobile-link" href ="/files/citation_map_number_Juan_Augusto_Paredes_Salazar_smaller.html">here</a>.
 
 Last Updated: 10/12/2025
 

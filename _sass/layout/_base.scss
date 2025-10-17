@@ -275,6 +275,14 @@ figcaption {
     display: none; /* Hide mobile iframe by default */
 }
 
+.mobile-link {
+    display: block; /* Show desktop link by default */
+  }
+
+.mobile-link {
+    display: none; /* Hide mobile link by default */
+  }
+
 @media screen and (max-width: 768px) {
     .desktop-iframe {
         display: none; /* Hide desktop iframe on mobile */
@@ -283,7 +291,16 @@ figcaption {
     .mobile-iframe {
         display: block; /* Show mobile iframe on mobile */
     }
+
+    .desktop-link {
+        display: none; /* Hide desktop link on mobile */
+    }
+
+    .mobile-link {
+        display: block; /* Show mobile link on mobile */
+    }
 }
+
 
 
 /* Fix IE9 SVG bug */
