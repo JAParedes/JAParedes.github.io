@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is Juan Augusto Paredes Salazar, PhD. in Aerospace Engineering. I created this website to compile all of my academic and personal work. Please, feel free to browse the contents in this site. 
+Hello! I'm Juan Augusto Paredes Salazar, PhD. in Aerospace Engineering. 
 
-A figure related to my latest work is displayed below. At the end of this page you will find citation maps with the locations of authors that have cited my work.
+I built this site to compile all of my academic and personal work in one place. Feel free to explore the sections and learn more about my research.
+
+Below, you'll find a figure related to my latest work, and at the bottom of the page, citation maps showing where my work has been referenced around the world.
 
 <figure>
   <img src="/images/videos/main_page_thumbnail.png" alt="Illustration of application of CBF to Multicopter Lateral Flight" class="align-center" width="80%">
