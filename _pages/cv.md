@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+
+This is a brief version of my full CV. You can find a more detailed document by clicking the CV tab.
+
 Education
 ======
 * Ph.D in Aerospace Engineering, University of Michigan, 2023
