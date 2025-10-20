@@ -14,3 +14,5 @@ The project report, results, and code can be found at the link below.
 **Code**
 
 - GP_MRAC_Code (<a href = "https://github.com/JAParedes/GP_MRAC_Code">Link</a>)
+
+<img src="/images/videos/GP_MRAC_thumbnail.png">

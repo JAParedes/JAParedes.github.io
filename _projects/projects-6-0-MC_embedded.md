@@ -17,8 +17,8 @@ The main tasks performed in this project were the following:
 
 - Development, implementation, and experimental outdoor evaluation of quadcopter controllers for computationally limited embedded systems (<a href = "https://japaredes.github.io/publication/2021-08-08-paredes-UAV_embedded">More details</a>)
 
-<img src="/images/videos/embedded_thumbnail.png">
-
 **Code**
 
 - Quadcopter control using discrete-time LQR-I (<a href = "https://github.com/JAParedes/Quadcopter_DT_LQRI_sim">Link</a>)
+
+<img src="/images/videos/embedded_thumbnail.png">
