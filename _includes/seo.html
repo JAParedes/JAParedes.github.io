@@ -90,10 +90,22 @@
   <script type="application/ld+json">
     {
       "@context" : "http://schema.org",
-      "@type" : "{% if site.social.type %}{{ site.social.type }}{% else %}Person{% endif %}",
-      "name" : "{{ site.social.name | default: site.name }}",
-      "url" : {{ seo_url | jsonify }},
-      "sameAs" : {{ site.social.links | jsonify }}
+      "@type": "Person",
+      "name": "Juan Augusto Paredes Salazar",
+      "url": "https://juanaugustoparedessalazar.com/",
+      "jobTitle": "Researcher in Aerospace Engineering and Robotics",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "University of Maryland Baltimore County"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/in/juanaparedes/",
+        "https://scholar.google.com/citations?user=tkjTSmkAAAAJ",
+        "https://github.com/JAParedes",
+        "https://www.researchgate.net/profile/Juan-Augusto-Paredes-Salazar",
+        "https://orcid.org/0000-0001-7486-1231",
+        "https://www.youtube.com/@JuanAugustoParedesSalazar"
+      ]
     }
   </script>
 {% endif %}
