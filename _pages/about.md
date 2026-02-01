@@ -20,7 +20,7 @@ Below, you'll find a figure related to my latest work, and at the bottom of the 
 
 Research Interests
 ======
-My research interests are the development of Guidance, Navigation and Control algorithms with applications to Unmanned Aerial Vehicles (UAVs) and aerospace systems. In particular, my reserach interests are in the following topics:
+My research interests are the development of Guidance, Navigation and Control algorithms with applications to Unmanned Aerial Vehicles (UAVs) and aerospace systems. In particular, my research interests are in the following topics:
 - Adaptive Control
 - Optimal Control and Model Predictive Control
 - Data-driven Learning for Control
@@ -44,7 +44,7 @@ A citation map that shows the location in the world of the authors that have cit
 
 Full map is available <a href ="/files/citation_map_authors_Juan_Augusto_Paredes_Salazar.html">here</a>.
 
-Last Updated: 10/12/2025
+Last Updated: 01/27/2026
 
 <div style="position: relative; padding-top: 56.25%; width: 100%;">
     <iframe src="/files/citation_map_authors_Juan_Augusto_Paredes_Salazar.html" title="Citation map with authors' names" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen></iframe>
@@ -57,7 +57,7 @@ A citation map that shows the number of authors that have cited my work at diffe
 
 Full map is available <a class="desktop-link" href ="/files/citation_map_number_Juan_Augusto_Paredes_Salazar.html">here</a><a class="mobile-link" href ="/files/citation_map_number_Juan_Augusto_Paredes_Salazar_smaller.html">here</a>.
 
-Last Updated: 10/12/2025
+Last Updated: 01/27/2026
 
 <div class="desktop-iframe" style="position: relative; padding-top: 56.25%; width: 100%;">
     <iframe src="/files/citation_map_number_Juan_Augusto_Paredes_Salazar_small.html" title="Citation map with number of citations" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen></iframe>
