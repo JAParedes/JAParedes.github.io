@@ -26,11 +26,11 @@ author:
   avatar           : "paredes.jpg"
   name             : "Juan Augusto Paredes Salazar"
   pronouns         : # "he/him" # example: "she/her"  
-  bio              : "I'm a Research Fellow at UMBC with research interests in Guidance, Navigation and Control of UAVs and aerospace systems."
-  location         : "Catonsville, MD"
-  employer         : "UMBC"
+  bio              : "I'm a Research Fellow at the University of Michigan with research interests in Guidance, Navigation and Control of UAVs and aerospace systems."
+  location         : "Ann Arbor, MI"
+  employer         : "University of Michigan"
   uri              : # URL
-  email            : "japarede@umbc.edu" 
+  email            : "jparedes@umich.edu" 
 
   # Academic websites
   academia         : # URL
