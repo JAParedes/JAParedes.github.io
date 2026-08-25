@@ -31,7 +31,7 @@ My research interests are the development of Guidance, Navigation and Control al
 Webpage Overview
 ======
 Feel free to check my projects and their associated multimedia, as well as the provided code. The tabs above lead to the following content:
-- <b>CV</b>: My latest Curriculum Vitae. Click <a href ="https://japaredes.github.io/files/Juan_Augusto_Paredes_Salazar_CV.pdf">here</a> to see the file online.
+- <b>CV</b>: My latest Curriculum Vitae. Click <a href ="https://juanaugustoparedessalazar.com/files/Juan_Augusto_Paredes_Salazar_CV.pdf">here</a> to see the file online.
 - <b>Publications</b>: Academic publications I have authored over te years. Click <a href ="https://japaredes.github.io/publications">here</a> for more details, such as links to the papers.
 - <b>Projects</b>: Projects in which I have worked over the years. Click <a href ="https://japaredes.github.io/projects">here</a> for more details, such as associated papers, code, and media.
 - <b>Videos</b>: Collection of videos associated to my work. Click <a href ="https://japaredes.github.io/videos">here</a> to get access to the videos and more details about them.
